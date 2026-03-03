@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "955a7cc40693281c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91553bdd099747ee",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b8a8df10beea7c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "85dee720ac10b264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da1f69cc1965beb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a126d3227316723f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "924856f82c5f9e85",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49dbf5b962c7bbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc24361751244dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7061a74fe3cf8dba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ce88d36ef5ac45f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f225799f99a71225",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34714f48b5b9d6b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91553bdd099747ee",
+  "lastOpenFiles": [
+    "일기/2022-10-12.md",
+    "일기/2022-09-18.md",
+    "일기/2022-09-29.md",
+    "baekjoon/15649 - N과 M (1).md",
+    "adyen integration.md",
+    "baekjoon/4949 - 균형잡힌 세상.md",
+    "baekjoon/9012 - 괄호.md",
+    "baekjoon/11053 - 가장 긴 증가하는 부분 수열.md",
+    "baekjoon/2559 - 수열.md",
+    "baekjoon/11659 - 구간 합 구하기 4.md"
+  ]
+}

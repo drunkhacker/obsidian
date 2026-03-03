@@ -1,0 +1,6 @@
+- [[retool 특성]] 에서 보듯이 custom component들이 삽입 가능하니 charger dashboard같은건 삽입할 수 있음
+- API 연동이 되므로 기존 API 활용 할 수 있음
+- 특정 도메인을 가지고 시작해볼 수도?
+	- maintenance + fix
+- 아니면 sales 등록?
+	- 
